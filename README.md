@@ -5,7 +5,9 @@ Soy un **desarrollador en aprendizaje** enfocado en el desarrollo backend. Actua
 ## 🚀 Tecnologías con las que estoy trabajando  
 - 🟢 **Node.js** & **Express.js**  
 - ⚡ **JavaScript**  
-- 🗄️ **MongoDB & PostgreSQL** (aprendiendo sobre bases de datos)  
+- 🗄️ **MongoDB & PostgreSQL** (aprendiendo sobre bases de datos)
+- 🔹 **Desarrollo de APIs REST**  
+- 🔹 **Programación Orientada a Objetos (POO)**  
 - 🛠️ **Git & GitHub**  
 
 ## 💡 Sobre mí  
