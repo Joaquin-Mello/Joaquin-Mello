@@ -1,17 +1,19 @@
 # 👋 ¡Hola! Soy Joaquín Mello  
 
-Soy un **desarrollador en aprendizaje** enfocado en el desarrollo backend. Actualmente, estoy profundizando mis conocimientos en **Node.js** y **Express.js**, creando proyectos para mejorar mi comprensión sobre **APIs, bases de datos y arquitectura backend**.  
+Soy un desarrollador Java Junior en formación, apasionado por la programación orientada a objetos y el desarrollo de aplicaciones backend robustas con Java. Actualmente estoy profundizando mis conocimientos en Spring Framework y en la creación de APIs RESTful, aplicando buenas prácticas y patrones de diseño.  
 
-## 🚀 Tecnologías con las que estoy trabajando  
-- 🟢 **Node.js** & **Express.js**  
-- ⚡ **JavaScript**  
-- 🗄️ **MongoDB & PostgreSQL** (aprendiendo sobre bases de datos)
-- 🔹 **Desarrollo de APIs REST**  
-- 🔹 **Programación Orientada a Objetos (POO)**  
-- 🛠️ **Git & GitHub**  
+## 🚀 Tecnologías y herramientas que estoy utilizando
+- ☕  Java (SE y fundamentos de EE)  
+- 🌱 Spring Framework & Spring Boot
+- 💻 IntelliJ IDEA
+- 🗄️ MySQL / PostgreSQL
+- 🔹 Desarrollo de APIs REST
+- 🌐 Fundamentos de desarrollo web (HTML, CSS, JS)
+- 🧱 POO (Programación Orientada a Objetos) 
+- 🛠️ Git & GitHub  
 
 ## 💡 Sobre mí  
-Me apasiona resolver problemas, aprender nuevas tecnologías y construir aplicaciones funcionales. Siempre busco oportunidades para mejorar mis habilidades y colaborar en proyectos interesantes.  
+Soy curioso, constante y disfruto resolver problemas a través del código. Me esfuerzo por escribir soluciones limpias y eficientes, y siempre estoy buscando nuevas oportunidades para aprender, crecer y colaborar en proyectos significativos. Mi objetivo es consolidarme como desarrollador backend, aportando valor y calidad al desarrollo de software.
 <!---
 Joaquin-Mello/Joaquin-Mello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
