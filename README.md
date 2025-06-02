@@ -7,12 +7,6 @@ Me especializo en crear APIs robustas, seguras y escalables utilizando el ecosis
 
 ---
 
-## 🚀 Proyectos Destacados
-
-- 🔧 [TaskManager API](https://github.com/joaquinmello/TaskManager-API): Gestión colaborativa de tareas (Spring Boot, Hibernate, PostgreSQL)
-
----
-
 ## 🛠️ Tecnologías
 
 ![Java](https://img.shields.io/badge/Java-17-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
