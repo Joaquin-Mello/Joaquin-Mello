@@ -2,7 +2,8 @@
 
 🎯 Desarrollador backend Java en crecimiento.
 <br>
-| APIs REST | Spring Boot | Hibernate | Jakarta EE |  
+| APIs REST | Spring Boot | Hibernate | Jakarta EE |  Node.js | Express.js |
+<br>
 Me especializo en crear APIs robustas, seguras y escalables utilizando el ecosistema Java.
 
 ---
@@ -14,6 +15,8 @@ Me especializo en crear APIs robustas, seguras y escalables utilizando el ecosis
 ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-%234B32C3?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-%23007ACC?style=for-the-badge&logo=jakartaee&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
